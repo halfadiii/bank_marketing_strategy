@@ -1,0 +1,6 @@
+# Everything the notebooks generate. Run them in order to get it back.
+Final tables/
+mydatabase.db
+
+.ipynb_checkpoints/
+__pycache__/
